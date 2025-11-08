@@ -1,0 +1,6 @@
+RACE_DD= "race_dropdown"
+GENDER_DD= "gender_dropdown"
+ANNUAL_BARCHART= "annual_barchart"
+ANNUAL_LINEPLOT= "annual_lineplot"
+TOTAL_TREEMAP= "total_treemap"
+SCATTER_PLOT= "scatter_plot"
