@@ -30,7 +30,7 @@ Source: [Bureau of Vital Statistics and New York City Department of Health and M
 
 3. The first chart in the below figure represents the distribution of death by each cause on both genders over the years, the second shows the total deaths over the years.
 
-<img src="./imgs/male_&_female">
+<img src="./imgs/male_and_female">
 
 4. Next figure is a summary of the total death over the years and each chart represent the gender and its race, and each point represent a cause of death 
 
